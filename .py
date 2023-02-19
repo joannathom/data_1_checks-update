@@ -1,11 +1,21 @@
-print ("hello world!")
+#create first "hello world!"
+print("hello world!")
 
-my_list = [1-7]*7
-[1,2,3,4,5,6,7]
-print ("7")
+#create second a list
+food_List = ['cookies', 'donuts', 'chips', 'pizza']
+print("donuts")
 
-x={'a':1, 'b':2}
-print ("2")
+#create third a dictionary
+animals = {'chicken':'eggs','fox':'coop', 'birds':'nest'}
+print (animals['chicken'])
 
-tuple ((1,2,3,4))
-print ("4")
+#create fourth a tuple
+
+tuple = ('numbers',('half dollar'),'cents',
+[1970,1980,1990])
+print(tuple[0])
+
+
+
+
+
